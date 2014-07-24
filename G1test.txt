@@ -1,0 +1,249 @@
+
+
+File: C:/active/add5/test.txt
+
+   --> 0 lines in this file contain unpunctuated endquotes. Not reporting them.
+
+
+all this strange contrast of savage arid coast and peaceful upland there
+    Line 40 column 37 - Query possible scanno arid
+
+bar loafer with no visible means of support.
+    Line 342 column 2 - Query possible scanno bar
+
+'Ho, ho!' laughed the cockatoo, raising his yellow crest in an angry
+    Line 648 column 2 - Query possible scanno Ho
+
+'Ho, ho!' laughed the cockatoo, raising his yellow crest in an angry
+    Line 648 column 5 - Query possible scanno ho
+
+worked himself into.
+    Line 710 column 20 - Query punctuation after into?
+
+handed it to Vandeloup, who received it with a bow.
+    Line 786 column 48 - Query possible scanno bow
+
+'I trust, gentlemen,' he said, with a graceful bow, 'we shall meet
+    Line 806 column 48 - Query possible scanno bow
+
+voice, she called out to someone inside,
+    Line 890 column 40 - No punctuation at para end?
+
+'D'ye no ken what yon may be?' he said, a smile relaxing his grim
+    Line 912 column 19 - Query possible scanno yon
+
+decent for tea. Madame herself sat down in an arm-chair in the bow
+    Line 939 column 64 - Query possible scanno bow
+
+'I say yon the day.'
+    Line 1021 column 8 - Query possible scanno yon
+
+'Ou, ay,' retorted McIntosh, drily; 'we ken a' aboot that, Selina--auld
+    Line 1035 column 1 - Query word Ou - not reporting duplicates
+
+A bat flew high up in the air across the clear glow of the sky,
+    Line 1067 column 3 - Query possible scanno bat
+
+'I am sure of that, Madame,' returned Vandeloup, with a bow.
+    Line 1272 column 57 - Query possible scanno bow
+
+'I wadna care aboot keepin' yon long,' he muttered to himself; 'he's
+    Line 1293 column 29 - Query possible scanno yon
+
+employment, and our lines, Madame,'--with another bow--'have fallen in a
+    Line 1336 column 51 - Query possible scanno bow
+
+there's just a fortune in it."
+    Line 1750 column 30 - Wrongspaced quotes?
+
+because I'm put on my word of honour. Madame,' with an ironical bow in
+    Line 1963 column 65 - Query possible scanno bow
+
+here, and I was to entertain you;' then, with a grave bow, he placed the
+    Line 2007 column 55 - Query possible scanno bow
+
+that. Eve before the fall in all her innocence.'
+    Line 2085 column 6 - Query possible scanno Eve
+
+'Very!' assented Gaston, going back to his desk.
+    Line 2134 column 6 - Query punctuation after very?
+
+'You have a fortune in your throat, mademoiselle,' he said, with a bow,
+    Line 2186 column 68 - Query possible scanno bow
+
+reviens, tel que tu me vois,
+    Line 2225 column 28 - No punctuation at para end?
+
+give any opportunity for scandal. Consequently, Slivers and Co., not
+    Line 2269 column 63 - Double punctuation?
+
+'That friend o' yours is gangin' awa' t' the toun the day,' he said,
+    Line 2748 column 38 - Query word t' - not reporting duplicates
+
+with an ironical bow he went out.
+    Line 2807 column 18 - Query possible scanno bow
+
+which was his idea of a bow. "I hope this," laying his hand on the box,
+    Line 2980 column 25 - Query possible scanno bow
+
+Anyone going into the bar could see old Simon--a stolid, fat man, with
+    Line 3230 column 23 - Query possible scanno bar
+
+day that Pierre arrived. The dumb man came into the bar out of the dusty
+    Line 3247 column 53 - Query possible scanno bar
+
+know the reason why; then marching out again to the bar, she drew a pot
+    Line 3280 column 53 - Query possible scanno bar
+
+considering that the man was dumb. Then she sat down behind her bar
+    Line 3283 column 65 - Query possible scanno bar
+
+Miss Twexby, amid the glitter of the glasses in the bar and the glare
+    Line 3370 column 53 - Query possible scanno bar
+
+somniferous heat of the day when a young man entered the bar and made
+    Line 3379 column 58 - Query possible scanno bar
+
+'Oh, I don't mind,' said Martha, preparing to leave the bar, but first
+    Line 3450 column 57 - Query possible scanno bar
+
+'Well,' she said to herself, as she returned to the bar, 'if that isn't
+    Line 3522 column 53 - Query possible scanno bar
+
+down in the bar with her nerves all of a flutter, as she afterwards told
+    Line 3524 column 13 - Query possible scanno bar
+
+fast asleep, while M. Vandeloup, humming a merry tune, walked gaily out
+    Line 3683 column 50 - Query possible scanno tune
+
+of the room to the bar, and asked Miss Twexby for another drink.
+    Line 3684 column 20 - Query possible scanno bar
+
+'He's just lovely,' she said to herself, as she returned to the bar 'but
+    Line 3713 column 65 - Query possible scanno bar
+
+pleasant bow.
+    Line 3791 column 10 - Query possible scanno bow
+
+At the same time Vandeloup and Pierre walked into the bar at the Wattle
+    Line 4156 column 55 - Query possible scanno bar
+
+Mrs Wopples fluttered down to the ground in a bow, and then fluttered up
+    Line 4401 column 47 - Query possible scanno bow
+
+with a bow to Mrs Wopples, who thereupon fluttered nervously; 'but I
+    Line 4475 column 8 - Query possible scanno bow
+
+burning in the bar, and, on knocking at the door, was admitted by Miss
+    Line 4501 column 16 - Query possible scanno bar
+
+'My!' said this damsel, when she saw him, 'you are a nice young man
+    Line 4505 column 4 - Query punctuation after my?
+
+He left the bar, whistling an air, while the fair Martha returned to
+    Line 4527 column 13 - Query possible scanno bar
+
+'We'll see about that,' said Mr McIntosh, wrathfully; 'I tauld yon gowk
+    Line 4611 column 64 - Query possible scanno yon
+
+yoursel' a martyr for yon. Keep the nugget? I'll see him damned first.'
+    Line 4694 column 23 - Query possible scanno yon
+
+He found Miss Twexby seated in the bar, with a decidedly cross face,
+    Line 5062 column 36 - Query possible scanno bar
+
+'Well?' asked Miss Twexby, coming from behind the bar with a glass and a
+    Line 5096 column 51 - Query possible scanno bar
+
+'Who will ?' said Slivers, taking a sip of his whisky and water.
+    Line 5108 column 11 - Spaced punctuation?
+
+the bar, 'Peter something; a low, black wretch, all beard, with no
+    Line 5111 column 5 - Query possible scanno bar
+
+tongue, and a thirst like a lime-kiln.'
+    Line 5112 column 29 - Query possible scanno lime
+
+Vandeloup acknowledged the compliment with a bow, and wondered mentally
+    Line 5337 column 46 - Query possible scanno bow
+
+with his handkerchief. 'Fancy an imp of Beelzebub like yon in the bowels
+    Line 5438 column 56 - Query possible scanno yon
+
+to the office and see how much is due to my friend,' and with a bow to
+    Line 5502 column 65 - Query possible scanno bow
+
+response from the fair Martha, who sat silently in the bar, looking like
+    Line 5559 column 56 - Query possible scanno bar
+
+'Are ye no gangin' tae read yon?' he asked sourly.
+    Line 5901 column 29 - Query possible scanno yon
+
+'But why my permission ?' asked Madame, with a faint smile, already
+    Line 6085 column 24 - Spaced punctuation?
+
+'Good-bye,' holding out his hand, 'or rather I should say au revoir.'
+    Line 6293 column 58 - Query word au - not reporting duplicates
+
+humming a tune. He strolled slowly down Lydiard Street, turning over in
+    Line 6298 column 11 - Query possible scanno tune
+
+Vandeloup assented with a laugh, and they went to the bar.
+    Line 7044 column 55 - Query possible scanno bar
+
+the first act was just over, and the bar was filled with a crowd of
+    Line 7053 column 38 - Query possible scanno bar
+
+act, and the bar and balconies gradually emptied themselves into the
+    Line 7061 column 14 - Query possible scanno bar
+
+were covered. The door leading into the bar was wide open, and within
+    Line 7069 column 41 - Query possible scanno bar
+
+gentlemen who came in from the bar, and taking seats a little distant
+    Line 7087 column 32 - Query possible scanno bar
+
+of gentlemen were thronging into the bar. Jarper was among them, and he
+    Line 7176 column 38 - Query possible scanno bar
+
+left the bar, after making Vandeloup promise faithfully he would come.
+    Line 7235 column 10 - Query possible scanno bar
+
+Gaston sauntered slowly up to the coffee bar, and asked for a cup in
+    Line 7237 column 42 - Query possible scanno bar
+
+Meddlechip did not resist, but walked passively out of the bar with
+    Line 7266 column 60 - Query possible scanno bar
+
+pounds, and then handed it to Vandeloup, who received it with a bow and
+    Line 7678 column 65 - Query possible scanno bow
+
+his special and was now licking his fingers, 'it's all grounds and 'ot
+    Line 7828 column 67 - Query word ot - not reporting duplicates
+
+' 'Ere yer are--all 'ot an' steamin',' he cried, in a kind of loud
+    Line 7854 column 1 - Spaced quote?
+
+'Yes, and yer morals, ain't they bad enough?' said Spilsby, washing up
+    Line 7902 column 28 - Query had/bad error?
+
+'Lord save us!' he ejaculated, grimly, 'it's yon French body. An' hoo's
+    Line 8265 column 46 - Query possible scanno yon
+
+jealous of the success achieved by the new-comer. She, however, taught
+    Line 8518 column 44 - Query possible scanno comer
+
+Vandeloup well knew his past life would not bear looking into. Another
+    Line 9716 column 62 - Query punctuation after into?
+
+Mind you, I don't say she did it
+    Line 10727 column 32 - Short line 32?
+
+'First, catch your hare,' replied Vandeloup, smoothly, going to the door
+    Line 10761 column 20 - Query possible scanno hare
+
+Note: Queried word ou was duplicated 2 times
+
+Note: Queried word t' was duplicated 2 times
+
+Note: Queried word ot was duplicated 2 times
